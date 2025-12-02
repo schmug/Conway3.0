@@ -1,0 +1,5 @@
+{
+  "name": "Chromatic Life",
+  "description": "A gamified variation of Conway's Game of Life where patterns fight for dominance through color-mixing collisions.",
+  "requestFramePermissions": []
+}
